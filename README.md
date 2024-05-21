@@ -28,6 +28,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 This Random Password Generator app is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed.
 
+## Author
+Omowunmi Kamiludeen
+
 Acknowledgments
 Special thanks to the Greatstack (formally easy tutorial) for their valuable contributions and inspirations.
 
